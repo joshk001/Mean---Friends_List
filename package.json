@@ -1,0 +1,11 @@
+{
+  "name": "full_mean_friends",
+  "version": "1.0.0",
+  "description": "full_mean_friends",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "mongoose": "^4.1.9"
+  }
+}
